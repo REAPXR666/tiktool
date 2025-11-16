@@ -28,6 +28,7 @@ This tool automates requests, solves captchas, and supports proxies to bypass Ti
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/REAPXR666/tiktool.git
+cd tiktool
 pip install -r requirements.txt
+python main.py
